@@ -180,6 +180,13 @@ async def approve_review(
         references=email.get("references"),
     )
 
+    # Keep the checkpoint pending and the graph paused so the reviewer can retry.
+    if not send_result.success:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Email send failed: {send_result.error or 'Unknown error'}",
+        )
+
     actor = "reviewer"  # single-reviewer model; cookie identity layer is in front
     finalized = await finalize_checkpoint(
         id=checkpoint_id,
