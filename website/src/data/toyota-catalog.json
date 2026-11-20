@@ -1,0 +1,5427 @@
+{
+ "generatedAt": "2026-07-07",
+ "models": {
+  "4Runner": {
+   "seriesId": "4runner",
+   "year": 2026,
+   "grades": {
+    "Limited": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Limited i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "SR5": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Off-Road": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Off-Road Premium": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Off-Road Premium i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Off-Road i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Pro": {
+     "colors": [
+      {
+       "name": "Wave Maker",
+       "hex": "#0CAEC6",
+       "extraCost": true,
+       "msrp": 695
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Sport": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Sport Premium": {
+     "colors": [
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#979A9B",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Trailhunter": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "C-HR": {
+   "seriesId": "chr",
+   "year": 2026,
+   "grades": {
+    "SE": {
+     "colors": [
+      {
+       "name": "Overcast",
+       "hex": "#42494C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Tandoori",
+       "hex": "#b6312a",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Tandoori with Midnight Black Metallic roof",
+       "hex": "#b6312a",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Cement with Midnight Black Metallic roof",
+       "hex": "#737B82",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Overcast",
+       "hex": "#42494C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Tandoori",
+       "hex": "#b6312a",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Camry": {
+   "seriesId": "camry",
+   "year": 2026,
+   "grades": {
+    "LE": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ocean Gem",
+       "hex": "#1B4558",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Nightshade": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Dark Cosmos",
+       "hex": "#3c4253",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ocean Gem",
+       "hex": "#1B4558",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Dark Cosmos",
+       "hex": "#3c4253",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ocean Gem",
+       "hex": "#1B4558",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Dark Cosmos",
+       "hex": "#3c4253",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ocean Gem",
+       "hex": "#1B4558",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal with Midnight Black Metallic roof",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Ocean Gem with Midnight Black Metallic roof",
+       "hex": "#1B4558",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Supersonic Red with Midnight Black Metallic roof",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    }
+   }
+  },
+  "Corolla": {
+   "seriesId": "corolla",
+   "year": 2026,
+   "grades": {
+    "Hybrid LE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid SE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid XLE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "LE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint with Midnight Black Metallic roof",
+       "hex": "#1E2548",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Ice Cap with Midnight Black Metallic roof",
+       "hex": "#FFFFFF",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Ruby Flare Pearl with Midnight Black Metallic roof",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Classic Silver Metallic with Midnight Black Metallic roof",
+       "hex": "#808080",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Celestite with Midnight Black Metallic roof",
+       "hex": "#636B79",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Underground with Midnight Black Metallic roof",
+       "hex": "#7E7B7D",
+       "extraCost": true,
+       "msrp": 500
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint with Midnight Black Metallic roof",
+       "hex": "#1E2548",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Ice Cap with Midnight Black Metallic roof",
+       "hex": "#FFFFFF",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Ruby Flare Pearl with Midnight Black Metallic roof",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Classic Silver Metallic with Midnight Black Metallic roof",
+       "hex": "#808080",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Celestite with Midnight Black Metallic roof",
+       "hex": "#636B79",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Underground with Midnight Black Metallic roof",
+       "hex": "#7E7B7D",
+       "extraCost": true,
+       "msrp": 500
+      }
+     ]
+    }
+   }
+  },
+  "Corolla Cross": {
+   "seriesId": "corollacross",
+   "year": 2026,
+   "grades": {
+    "Hybrid S": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid SE": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cavalry Blue",
+       "hex": "#2A5180",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Soul Red Crystal",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Jet Black roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Sonic Silver with Jet Black roof",
+       "hex": "#A2A8AF",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Cavalry Blue with Jet Black roof",
+       "hex": "#2A5180",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Soul Red Crystal with Jet Black roof",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "Hybrid XSE": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cavalry Blue",
+       "hex": "#2A5180",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Soul Red Crystal",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Jet Black roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Sonic Silver with Jet Black roof",
+       "hex": "#A2A8AF",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Cavalry Blue with Jet Black roof",
+       "hex": "#2A5180",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Soul Red Crystal with Jet Black roof",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "L": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "LE": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cavalry Blue",
+       "hex": "#2A5180",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Soul Red Crystal",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Sonic Silver",
+       "hex": "#A2A8AF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestite",
+       "hex": "#636B79",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cavalry Blue",
+       "hex": "#2A5180",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Soul Red Crystal",
+       "hex": "#80071A",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Jet Black",
+       "hex": "#121212",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Corolla Hatchback": {
+   "seriesId": "corollahatchback",
+   "year": 2026,
+   "grades": {
+    "FX": {
+     "colors": [
+      {
+       "name": "Inferno",
+       "hex": "#D63400",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blue Crush Metallic",
+       "hex": "#111D69",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Inferno",
+       "hex": "#D63400",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Finish Line Red with Midnight Black Metallic roof",
+       "hex": "#A5242D",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Classic Silver Metallic with Midnight Black Metallic roof",
+       "hex": "#808080",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A5242D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic with Midnight Black Metallic roof",
+       "hex": "#494848",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blue Crush Metallic with Midnight Black Metallic roof",
+       "hex": "#111D69",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Blue Crush Metallic",
+       "hex": "#111D69",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Inferno",
+       "hex": "#D63400",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Classic Silver Metallic",
+       "hex": "#808080",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Finish Line Red with Midnight Black Metallic roof",
+       "hex": "#A5242D",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Classic Silver Metallic with Midnight Black Metallic roof",
+       "hex": "#808080",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A5242D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic with Midnight Black Metallic roof",
+       "hex": "#494848",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blue Crush Metallic with Midnight Black Metallic roof",
+       "hex": "#111D69",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Blue Crush Metallic",
+       "hex": "#111D69",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "GR Corolla": {
+   "seriesId": "grcorolla",
+   "year": 2026,
+   "grades": {
+    "GR Corolla": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "GR Corolla Premium Plus": {
+     "colors": [
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "GR Supra": {
+   "seriesId": "grsupra",
+   "year": 2026,
+   "grades": {
+    "3.0": {
+     "colors": [
+      {
+       "name": "Stratosphere",
+       "hex": "#100C56",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Absolute Zero",
+       "hex": "#EBEAE5",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Nocturnal",
+       "hex": "#161617",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Renaissance Red 2.0",
+       "hex": "#B61E0D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "3.0 Premium": {
+     "colors": [
+      {
+       "name": "Stratosphere",
+       "hex": "#100C56",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Absolute Zero",
+       "hex": "#EBEAE5",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Nocturnal",
+       "hex": "#161617",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Renaissance Red 2.0",
+       "hex": "#B61E0D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "MkV Final Edition": {
+     "colors": [
+      {
+       "name": "Burnout",
+       "hex": "#E1E1DD",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Undercover",
+       "hex": "#0e0e0e",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Absolute Zero",
+       "hex": "#EBEAE5",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Nocturnal",
+       "hex": "#161617",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Renaissance Red 2.0",
+       "hex": "#B61E0D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "GR86": {
+   "seriesId": "gr86",
+   "year": 2026,
+   "grades": {
+    "GR86": {
+     "colors": [
+      {
+       "name": "Raven",
+       "hex": "#191918",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Pavement",
+       "hex": "#79787E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Steel",
+       "hex": "#b8b8b8",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Halo",
+       "hex": "#E0DDD4",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Trueno Blue",
+       "hex": "#213182",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Track bRED",
+       "hex": "#BE0000",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "GR86 Premium": {
+     "colors": [
+      {
+       "name": "Raven",
+       "hex": "#191918",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Pavement",
+       "hex": "#79787E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Steel",
+       "hex": "#b8b8b8",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Halo",
+       "hex": "#E0DDD4",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Trueno Blue",
+       "hex": "#213182",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Track bRED",
+       "hex": "#BE0000",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "GR86 Yuzu Edition": {
+     "colors": [
+      {
+       "name": "Yuzu Yellow",
+       "hex": "#fdc402",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Grand Highlander": {
+   "seriesId": "grandhighlander",
+   "year": 2026,
+   "grades": {
+    "Hybrid LE": {
+     "colors": [
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid Limited": {
+     "colors": [
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid MAX Limited": {
+     "colors": [
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid MAX Platinum": {
+     "colors": [
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid Nightshade": {
+     "colors": [
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid XLE": {
+     "colors": [
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "LE": {
+     "colors": [
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Highlander": {
+   "seriesId": "highlander",
+   "year": 2026,
+   "grades": {
+    "Hybrid Limited": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid Platinum": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Hybrid XLE": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#535353",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Land Cruiser": {
+   "seriesId": "landcruiser",
+   "year": 2027,
+   "grades": {
+    "Land Cruiser": {
+     "colors": [
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Trail Dust/Grayscape",
+       "hex": "#9b762d",
+       "extraCost": true,
+       "msrp": 350
+      },
+      {
+       "name": "Heritage Blue/Grayscape",
+       "hex": "#5091C3",
+       "extraCost": true,
+       "msrp": 350
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#292A2D",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Land Cruiser 1958": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Mirai": {
+   "seriesId": "mirai",
+   "year": 2026,
+   "grades": {
+    "Mirai": {
+     "colors": [
+      {
+       "name": "Hydro Blue",
+       "hex": "#1347C1",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "Prius": {
+   "seriesId": "prius",
+   "year": 2027,
+   "grades": {
+    "LE": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "LE AWD": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Limited AWD": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Nightshade": {
+     "colors": [
+      {
+       "name": "Karashi",
+       "hex": "#AB8214",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Nightshade AWD": {
+     "colors": [
+      {
+       "name": "Karashi",
+       "hex": "#AB8214",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "XLE AWD": {
+     "colors": [
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Guardian Gray",
+       "hex": "#4c5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "Prius Plug-in Hybrid": {
+   "seriesId": "priuspluginhybrid",
+   "year": 2027,
+   "grades": {
+    "Nightshade": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Karashi",
+       "hex": "#AB8214",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Guardian Gray",
+       "hex": "#4C5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Guardian Gray",
+       "hex": "#4C5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE Premium": {
+     "colors": [
+      {
+       "name": "Guardian Gray",
+       "hex": "#4C5156",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Cutting Edge",
+       "hex": "#858585",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Inked",
+       "hex": "#111111",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Reservoir Blue",
+       "hex": "#1A1C37",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "RAV4": {
+   "seriesId": "rav4",
+   "year": 2026,
+   "grades": {
+    "LE": {
+     "colors": [
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Woodland": {
+     "colors": [
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Urban Rock",
+       "hex": "#5b5457",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE Premium": {
+     "colors": [
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Storm Cloud/Midnight Black Metallic roof",
+       "hex": "#3D4A59",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl/Midnight Black Metallic roof",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Meteor Shower w/Midnight Black Metallic roof",
+       "hex": "#A1A1A1",
+       "extraCost": true,
+       "msrp": 500
+      }
+     ]
+    }
+   }
+  },
+  "RAV4 Plug-in Hybrid": {
+   "seriesId": "rav4pluginhybrid",
+   "year": 2026,
+   "grades": {
+    "GR SPORT": {
+     "colors": [
+      {
+       "name": "Supersonic Red w/Midnight Black Metallic roof",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud w/Midnight Black Metallic roof",
+       "hex": "#3D4A59",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Wind Chill Pearl w/Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "SE": {
+     "colors": [
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Meteor Shower",
+       "hex": "#A1A1A1",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Woodland": {
+     "colors": [
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Everest",
+       "hex": "#243B3C",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Urban Rock",
+       "hex": "#5B5457",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Storm Cloud w/Midnight Black Metallic roof",
+       "hex": "#3D4A59",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Meteor Shower w/Midnight Black Metallic roof",
+       "hex": "#A1A1A1",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Wind Chill Pearl w/Midnight Black Metallic roof",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    }
+   }
+  },
+  "Sequoia": {
+   "seriesId": "sequoia",
+   "year": 2026,
+   "grades": {
+    "1794 Edition": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Capstone": {
+     "colors": [
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "SR5": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Pro": {
+     "colors": [
+      {
+       "name": "Wave Maker",
+       "hex": "#0CAEC6",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Sienna": {
+   "seriesId": "sienna",
+   "year": 2026,
+   "grades": {
+    "LE": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Woodland Edition": {
+     "colors": [
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Cypress",
+       "hex": "#2D4C36",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "XSE": {
+     "colors": [
+      {
+       "name": "Cement",
+       "hex": "#737B82",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ruby Flare Pearl",
+       "hex": "#740000",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Tacoma": {
+   "seriesId": "tacoma",
+   "year": 2026,
+   "grades": {
+    "Limited": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Limited i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "SR": {
+     "colors": [
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "SR5": {
+     "colors": [
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Off-Road": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Off-Road i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD PreRunner": {
+     "colors": [
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Pro": {
+     "colors": [
+      {
+       "name": "Wave Maker with Black roof",
+       "hex": "#0CAEC6",
+       "extraCost": true,
+       "msrp": 695
+      },
+      {
+       "name": "Ice Cap with Black roof",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground with Black roof",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Sport": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "TRD Sport i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heritage Blue",
+       "hex": "#5091C3",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Trailhunter": {
+     "colors": [
+      {
+       "name": "Bronze Oxide",
+       "hex": "#857A6A",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Underground",
+       "hex": "#7E7B7D",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "Crown": {
+   "seriesId": "toyotacrown",
+   "year": 2026,
+   "grades": {
+    "Limited": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#22323F",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Bronze Age",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "Nightshade": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#22323F",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#22323F",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Bronze Age",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Finish Line Red with Black bi-tone",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Oxygen White with Black bi-tone",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Heavy Metal with Black bi-tone",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Bronze Age with Black bi-tone",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#22323F",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Bronze Age",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "Crown Signia": {
+   "seriesId": "toyotacrownsignia",
+   "year": 2026,
+   "grades": {
+    "Limited": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Bronze Age",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Storm Cloud with Black roof",
+       "hex": "#3D4A59",
+       "extraCost": true,
+       "msrp": 500
+      },
+      {
+       "name": "Oxygen White with Black roof",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Finish Line Red with Black roof",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Bronze Age with Black roof",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Storm Cloud",
+       "hex": "#3D4A59",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Bronze Age",
+       "hex": "#936445",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Oxygen White",
+       "hex": "#FFFCF9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Black",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Finish Line Red",
+       "hex": "#A11D1D",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "Tundra": {
+   "seriesId": "tundra",
+   "year": 2026,
+   "grades": {
+    "1794 Edition": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "1794 Edition i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Capstone": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Limited i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "Platinum i-FORCE MAX": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#E3E9E9",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "SR": {
+     "colors": [
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    },
+    "SR5": {
+     "colors": [
+      {
+       "name": "Lunar Rock",
+       "hex": "#949B96",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Celestial Silver Metallic",
+       "hex": "#828387",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Mudbath",
+       "hex": "#604F46",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "TRD Pro": {
+     "colors": [
+      {
+       "name": "Ice Cap",
+       "hex": "#FFFFFF",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Magnetic Gray Metallic",
+       "hex": "#494848",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#00031E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wave Maker",
+       "hex": "#0CAEC6",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  },
+  "bZ": {
+   "seriesId": "bz",
+   "year": 2026,
+   "grades": {
+    "Limited": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Wind Chill Pearl with Midnight Black Metallic roof",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Heavy Metal with Midnight Black Metallic roof",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 975
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Supersonic Red with Midnight Black Metallic roof",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 975
+      }
+     ]
+    },
+    "XLE": {
+     "colors": [
+      {
+       "name": "Wind Chill Pearl",
+       "hex": "#F3F2F2",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Heavy Metal",
+       "hex": "#545251",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Midnight Black Metallic",
+       "hex": "#000000",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Blueprint",
+       "hex": "#1E2548",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Supersonic Red",
+       "hex": "#E20500",
+       "extraCost": true,
+       "msrp": 475
+      }
+     ]
+    }
+   }
+  },
+  "bZ Woodland": {
+   "seriesId": "bzwoodland",
+   "year": 2026,
+   "grades": {
+    "bZ Woodland": {
+     "colors": [
+      {
+       "name": "Stepping Stone",
+       "hex": "#544C49",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Raven",
+       "hex": "#191918",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Halo",
+       "hex": "#E0DDD4",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Pavement",
+       "hex": "#79787E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Steel",
+       "hex": "#b8b8b8",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Trueno Blue",
+       "hex": "#213182",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    },
+    "bZ Woodland Premium": {
+     "colors": [
+      {
+       "name": "Stepping Stone",
+       "hex": "#544C49",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Raven",
+       "hex": "#191918",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Halo",
+       "hex": "#E0DDD4",
+       "extraCost": true,
+       "msrp": 475
+      },
+      {
+       "name": "Pavement",
+       "hex": "#79787E",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Steel",
+       "hex": "#b8b8b8",
+       "extraCost": false,
+       "msrp": 0
+      },
+      {
+       "name": "Trueno Blue",
+       "hex": "#213182",
+       "extraCost": false,
+       "msrp": 0
+      }
+     ]
+    }
+   }
+  }
+ }
+}

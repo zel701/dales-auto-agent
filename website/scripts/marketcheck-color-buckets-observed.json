@@ -1,0 +1,870 @@
+{
+ "Absolute Zero": {
+  "num_found": 85,
+  "buckets": [
+   [
+    "White",
+    85
+   ]
+  ]
+ },
+ "Black": {
+  "num_found": 12770,
+  "buckets": [
+   [
+    "Black",
+    12770
+   ]
+  ]
+ },
+ "Blue Crush Metallic": {
+  "num_found": 219,
+  "buckets": [
+   [
+    "Blue",
+    219
+   ]
+  ]
+ },
+ "Blue Crush Metallic with Midnight Black Metallic roof": {
+  "num_found": 34,
+  "buckets": [
+   [
+    "Blue",
+    34
+   ]
+  ]
+ },
+ "Blueprint": {
+  "num_found": 10110,
+  "buckets": [
+   [
+    "Blue",
+    10110
+   ]
+  ]
+ },
+ "Blueprint with Midnight Black Metallic roof": {
+  "num_found": 31,
+  "buckets": [
+   [
+    "Black",
+    31
+   ]
+  ]
+ },
+ "Bronze Age": {
+  "num_found": 206,
+  "buckets": [
+   [
+    "Brown",
+    206
+   ]
+  ]
+ },
+ "Bronze Age with Black bi-tone": {
+  "num_found": 9,
+  "buckets": [
+   [
+    "Black",
+    9
+   ]
+  ]
+ },
+ "Bronze Age with Black roof": {
+  "num_found": 39,
+  "buckets": [
+   [
+    "Black",
+    39
+   ]
+  ]
+ },
+ "Bronze Oxide": {
+  "num_found": 3972,
+  "buckets": [
+   [
+    "Brown",
+    3972
+   ]
+  ]
+ },
+ "Burnout": {
+  "num_found": 4,
+  "buckets": [
+   [
+    "Black",
+    4
+   ]
+  ]
+ },
+ "Cavalry Blue": {
+  "num_found": 1039,
+  "buckets": [
+   [
+    "Blue",
+    1039
+   ]
+  ]
+ },
+ "Cavalry Blue with Jet Black roof": {
+  "num_found": 63,
+  "buckets": [
+   [
+    "Blue",
+    63
+   ]
+  ]
+ },
+ "Celestial Silver Metallic": {
+  "num_found": 14266,
+  "buckets": [
+   [
+    "Silver",
+    14266
+   ]
+  ]
+ },
+ "Celestite": {
+  "num_found": 5856,
+  "buckets": [
+   [
+    "Gray",
+    5856
+   ]
+  ]
+ },
+ "Celestite with Midnight Black Metallic roof": {
+  "num_found": 36,
+  "buckets": [
+   [
+    "Black",
+    36
+   ]
+  ]
+ },
+ "Cement": {
+  "num_found": 2495,
+  "buckets": [
+   [
+    "Gray",
+    2495
+   ]
+  ]
+ },
+ "Cement with Midnight Black Metallic roof": {
+  "num_found": 58,
+  "buckets": [
+   [
+    "Black",
+    58
+   ]
+  ]
+ },
+ "Classic Silver Metallic": {
+  "num_found": 3602,
+  "buckets": [
+   [
+    "Silver",
+    3602
+   ]
+  ]
+ },
+ "Classic Silver Metallic with Midnight Black Metallic roof": {
+  "num_found": 66,
+  "buckets": [
+   [
+    "Silver",
+    66
+   ]
+  ]
+ },
+ "Cutting Edge": {
+  "num_found": 2973,
+  "buckets": [
+   [
+    "Black",
+    1
+   ],
+   [
+    "Gray",
+    1
+   ]
+  ]
+ },
+ "Cypress": {
+  "num_found": 1403,
+  "buckets": [
+   [
+    "Green",
+    1403
+   ]
+  ]
+ },
+ "Dark Cosmos": {
+  "num_found": 1570,
+  "buckets": [
+   [
+    "Gray",
+    2
+   ],
+   [
+    "Black",
+    1
+   ],
+   [
+    "Red",
+    1
+   ]
+  ]
+ },
+ "Everest": {
+  "num_found": 1384,
+  "buckets": []
+ },
+ "Finish Line Red": {
+  "num_found": 294,
+  "buckets": [
+   [
+    "Red",
+    294
+   ]
+  ]
+ },
+ "Finish Line Red with Black bi-tone": {
+  "num_found": 5,
+  "buckets": [
+   [
+    "Red",
+    5
+   ]
+  ]
+ },
+ "Finish Line Red with Black roof": {
+  "num_found": 58,
+  "buckets": [
+   [
+    "Red",
+    58
+   ]
+  ]
+ },
+ "Finish Line Red with Midnight Black Metallic roof": {
+  "num_found": 61,
+  "buckets": [
+   [
+    "Red",
+    61
+   ]
+  ]
+ },
+ "Guardian Gray": {
+  "num_found": 1007,
+  "buckets": [
+   [
+    "Gray",
+    1007
+   ]
+  ]
+ },
+ "Halo": {
+  "num_found": 585,
+  "buckets": [
+   [
+    "White",
+    584
+   ]
+  ]
+ },
+ "Heavy Metal": {
+  "num_found": 7996,
+  "buckets": [
+   [
+    "Gray",
+    7996
+   ]
+  ]
+ },
+ "Heavy Metal with Black bi-tone": {
+  "num_found": 14,
+  "buckets": [
+   [
+    "Black",
+    14
+   ]
+  ]
+ },
+ "Heavy Metal with Midnight Black Metallic roof": {
+  "num_found": 695,
+  "buckets": [
+   [
+    "Black",
+    695
+   ]
+  ]
+ },
+ "Heavy Metal\u00a0with Midnight Black Metallic roof": {
+  "num_found": 0,
+  "buckets": []
+ },
+ "Heritage Blue": {
+  "num_found": 5281,
+  "buckets": [
+   [
+    "Blue",
+    5281
+   ]
+  ]
+ },
+ "Heritage Blue/Grayscape": {
+  "num_found": 116,
+  "buckets": [
+   [
+    "Blue",
+    116
+   ]
+  ]
+ },
+ "Hydro Blue": {
+  "num_found": 5,
+  "buckets": [
+   [
+    "Blue",
+    5
+   ]
+  ]
+ },
+ "Ice Cap": {
+  "num_found": 36189,
+  "buckets": [
+   [
+    "White",
+    36189
+   ]
+  ]
+ },
+ "Ice Cap with Black roof": {
+  "num_found": 182,
+  "buckets": [
+   [
+    "Black",
+    182
+   ]
+  ]
+ },
+ "Ice Cap with Midnight Black Metallic roof": {
+  "num_found": 24,
+  "buckets": [
+   [
+    "Black",
+    24
+   ]
+  ]
+ },
+ "Inferno": {
+  "num_found": 147,
+  "buckets": [
+   [
+    "Red",
+    147
+   ]
+  ]
+ },
+ "Inked": {
+  "num_found": 657,
+  "buckets": [
+   [
+    "Black",
+    15
+   ]
+  ]
+ },
+ "Jet Black": {
+  "num_found": 1906,
+  "buckets": [
+   [
+    "Black",
+    1906
+   ]
+  ]
+ },
+ "Karashi": {
+  "num_found": 60,
+  "buckets": []
+ },
+ "Lunar Rock": {
+  "num_found": 4805,
+  "buckets": [
+   [
+    "Gray",
+    4801
+   ]
+  ]
+ },
+ "Magnetic Gray Metallic": {
+  "num_found": 7580,
+  "buckets": [
+   [
+    "Gray",
+    7580
+   ]
+  ]
+ },
+ "Magnetic Gray Metallic with Midnight Black Metallic roof": {
+  "num_found": 36,
+  "buckets": [
+   [
+    "Gray",
+    36
+   ]
+  ]
+ },
+ "Meteor Shower": {
+  "num_found": 5604,
+  "buckets": [
+   [
+    "Black",
+    18
+   ],
+   [
+    "Gray",
+    15
+   ],
+   [
+    "Silver",
+    9
+   ],
+   [
+    "White",
+    7
+   ],
+   [
+    "Brown",
+    1
+   ]
+  ]
+ },
+ "Meteor Shower w/Midnight Black Metallic roof": {
+  "num_found": 6,
+  "buckets": [
+   [
+    "Black",
+    6
+   ]
+  ]
+ },
+ "Midnight Black Metallic": {
+  "num_found": 32230,
+  "buckets": [
+   [
+    "Black",
+    32230
+   ]
+  ]
+ },
+ "Mudbath": {
+  "num_found": 3747,
+  "buckets": [
+   [
+    "Brown",
+    18
+   ],
+   [
+    "Black",
+    6
+   ],
+   [
+    "Gray",
+    1
+   ],
+   [
+    "White",
+    1
+   ]
+  ]
+ },
+ "Nocturnal": {
+  "num_found": 56,
+  "buckets": [
+   [
+    "Black",
+    56
+   ]
+  ]
+ },
+ "Ocean Gem": {
+  "num_found": 2948,
+  "buckets": [
+   [
+    "Blue",
+    2948
+   ]
+  ]
+ },
+ "Ocean Gem with Midnight Black Metallic roof": {
+  "num_found": 231,
+  "buckets": [
+   [
+    "Black",
+    231
+   ]
+  ]
+ },
+ "Overcast": {
+  "num_found": 365,
+  "buckets": [
+   [
+    "Gray",
+    364
+   ]
+  ]
+ },
+ "Oxygen White": {
+  "num_found": 760,
+  "buckets": [
+   [
+    "White",
+    760
+   ]
+  ]
+ },
+ "Oxygen White with Black bi-tone": {
+  "num_found": 7,
+  "buckets": [
+   [
+    "White",
+    7
+   ]
+  ]
+ },
+ "Oxygen White with Black roof": {
+  "num_found": 89,
+  "buckets": [
+   [
+    "White",
+    89
+   ]
+  ]
+ },
+ "Pavement": {
+  "num_found": 710,
+  "buckets": [
+   [
+    "Gray",
+    709
+   ]
+  ]
+ },
+ "Raven": {
+  "num_found": 575,
+  "buckets": [
+   [
+    "Black",
+    575
+   ]
+  ]
+ },
+ "Renaissance Red 2.0": {
+  "num_found": 48,
+  "buckets": [
+   [
+    "Red",
+    48
+   ]
+  ]
+ },
+ "Reservoir Blue": {
+  "num_found": 2791,
+  "buckets": [
+   [
+    "Blue",
+    2791
+   ]
+  ]
+ },
+ "Ruby Flare Pearl": {
+  "num_found": 3655,
+  "buckets": [
+   [
+    "Red",
+    3655
+   ]
+  ]
+ },
+ "Ruby Flare Pearl with Midnight Black Metallic roof": {
+  "num_found": 35,
+  "buckets": [
+   [
+    "Black",
+    35
+   ]
+  ]
+ },
+ "Sonic Silver": {
+  "num_found": 2124,
+  "buckets": [
+   [
+    "Silver",
+    2124
+   ]
+  ]
+ },
+ "Sonic Silver with Jet Black roof": {
+  "num_found": 110,
+  "buckets": [
+   [
+    "Silver",
+    110
+   ]
+  ]
+ },
+ "Soul Red Crystal": {
+  "num_found": 513,
+  "buckets": [
+   [
+    "Red",
+    513
+   ]
+  ]
+ },
+ "Soul Red Crystal with Jet Black roof": {
+  "num_found": 9,
+  "buckets": [
+   [
+    "Red",
+    9
+   ]
+  ]
+ },
+ "Steel": {
+  "num_found": 621,
+  "buckets": [
+   [
+    "Gray",
+    621
+   ]
+  ]
+ },
+ "Stepping Stone": {
+  "num_found": 360,
+  "buckets": [
+   [
+    "Gray",
+    360
+   ]
+  ]
+ },
+ "Storm Cloud": {
+  "num_found": 9623,
+  "buckets": [
+   [
+    "Gray",
+    9623
+   ]
+  ]
+ },
+ "Storm Cloud w/Midnight Black Metallic roof": {
+  "num_found": 9,
+  "buckets": [
+   [
+    "Black",
+    9
+   ]
+  ]
+ },
+ "Storm Cloud with Black roof": {
+  "num_found": 96,
+  "buckets": [
+   [
+    "Black",
+    96
+   ]
+  ]
+ },
+ "Storm Cloud/Midnight Black Metallic roof": {
+  "num_found": 0,
+  "buckets": []
+ },
+ "Stratosphere": {
+  "num_found": 33,
+  "buckets": [
+   [
+    "Gray",
+    2
+   ]
+  ]
+ },
+ "Supersonic Red": {
+  "num_found": 6578,
+  "buckets": [
+   [
+    "Red",
+    6578
+   ]
+  ]
+ },
+ "Supersonic Red w/Midnight Black Metallic roof": {
+  "num_found": 65,
+  "buckets": [
+   [
+    "Red",
+    65
+   ]
+  ]
+ },
+ "Supersonic Red with Midnight Black Metallic roof": {
+  "num_found": 321,
+  "buckets": [
+   [
+    "Red",
+    321
+   ]
+  ]
+ },
+ "Supersonic Red\u00a0with Midnight Black Metallic roof": {
+  "num_found": 0,
+  "buckets": []
+ },
+ "Tandoori": {
+  "num_found": 309,
+  "buckets": []
+ },
+ "Tandoori with Midnight Black Metallic roof": {
+  "num_found": 32,
+  "buckets": [
+   [
+    "Black",
+    32
+   ]
+  ]
+ },
+ "Track bRED": {
+  "num_found": 107,
+  "buckets": [
+   [
+    "Red",
+    107
+   ]
+  ]
+ },
+ "Trail Dust/Grayscape": {
+  "num_found": 61,
+  "buckets": [
+   [
+    "Gray",
+    61
+   ]
+  ]
+ },
+ "Trueno Blue": {
+  "num_found": 341,
+  "buckets": [
+   [
+    "Blue",
+    341
+   ]
+  ]
+ },
+ "Undercover": {
+  "num_found": 8,
+  "buckets": []
+ },
+ "Underground": {
+  "num_found": 26711,
+  "buckets": [
+   [
+    "Black",
+    26686
+   ]
+  ]
+ },
+ "Underground with Black roof": {
+  "num_found": 194,
+  "buckets": [
+   [
+    "Black",
+    194
+   ]
+  ]
+ },
+ "Underground with Midnight Black Metallic roof": {
+  "num_found": 58,
+  "buckets": [
+   [
+    "Black",
+    58
+   ]
+  ]
+ },
+ "Urban Rock": {
+  "num_found": 535,
+  "buckets": []
+ },
+ "Wave Maker": {
+  "num_found": 651,
+  "buckets": []
+ },
+ "Wave Maker with Black roof": {
+  "num_found": 175,
+  "buckets": [
+   [
+    "Black",
+    175
+   ]
+  ]
+ },
+ "Wind Chill Pearl": {
+  "num_found": 17565,
+  "buckets": [
+   [
+    "White",
+    17556
+   ]
+  ]
+ },
+ "Wind Chill Pearl w/Midnight Black Metallic roof": {
+  "num_found": 176,
+  "buckets": [
+   [
+    "Black",
+    176
+   ]
+  ]
+ },
+ "Wind Chill Pearl with Jet Black roof": {
+  "num_found": 82,
+  "buckets": [
+   [
+    "Black",
+    82
+   ]
+  ]
+ },
+ "Wind Chill Pearl with Midnight Black Metallic roof": {
+  "num_found": 1758,
+  "buckets": [
+   [
+    "Black",
+    1758
+   ]
+  ]
+ },
+ "Wind Chill Pearl/Midnight Black Metallic roof": {
+  "num_found": 2,
+  "buckets": [
+   [
+    "Black",
+    2
+   ]
+  ]
+ },
+ "Yuzu Yellow": {
+  "num_found": 1,
+  "buckets": [
+   [
+    "Yellow",
+    1
+   ]
+  ]
+ }
+}
