@@ -11,14 +11,20 @@ dist/
 
 # Environment / secrets
 .env
-.env.local
-.env*.local
+.env.*
+!.env.example
+.railway/
+.vercel/
+.langgraph_api/
 
 # Generated invitation codes — live access tokens, keep them out of the repo
 invite-codes*.csv
 
 # Database
 *.db
+*.db.*
+*.db-*
+*.sqlite*
 
 # IDE
 .idea/

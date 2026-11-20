@@ -33,6 +33,7 @@ from car_agent.db.repositories.review_checkpoint_repo import (
 from car_agent.logging_config import neg_id_var
 from car_agent.services.email_templates import wrap_analysis_email
 from car_agent.services.llm.analysis import generate_analysis_email
+from car_agent.services.review_delivery import EmailDeliveryFailed, require_delivery
 
 logger = logging.getLogger(__name__)
 
@@ -170,22 +171,18 @@ async def approve_review(
         # Tag the send + finalize + resume logs below with the negotiation.
         neg_id_var.set(neg_id)
 
-    send_result = await send_email(
-        to_email=email.get("to") or row.customer.email,
-        subject=email.get("subject", ""),
-        body=email.get("full_html", ""),
-        html=True,
-        negotiation_id=neg_id,
-        in_reply_to=email.get("in_reply_to"),
-        references=email.get("references"),
-    )
-
-    # Keep the checkpoint pending and the graph paused so the reviewer can retry.
-    if not send_result.success:
-        raise HTTPException(
-            status_code=502,
-            detail=f"Email send failed: {send_result.error or 'Unknown error'}",
-        )
+    try:
+        send_result = await require_delivery(send_email(
+            to_email=email.get("to") or row.customer.email,
+            subject=email.get("subject", ""),
+            body=email.get("full_html", ""),
+            html=True,
+            negotiation_id=neg_id,
+            in_reply_to=email.get("in_reply_to"),
+            references=email.get("references"),
+        ))
+    except EmailDeliveryFailed as exc:
+        raise HTTPException(status_code=502, detail=str(exc)) from exc
 
     actor = "reviewer"  # single-reviewer model; cookie identity layer is in front
     finalized = await finalize_checkpoint(

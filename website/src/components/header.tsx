@@ -1,12 +1,16 @@
 "use client";
 
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 import { LoginModal } from "@/components/login-modal";
 import { useCustomerSession } from "@/lib/customer-session";
 
 export function Header() {
+  const pathname = usePathname();
   const { customer, loading, logout } = useCustomerSession();
   const [open, setOpen] = useState(false);
+
+  if (pathname === "/demo") return null;
 
   return (
     <>

@@ -30,9 +30,9 @@ MAX_REASKS = 2
 # ---------------------------------------------------------------------------
 
 
-async def draft_stage_email_node(state: NegotiationState) -> dict:
+async def draft_stage_email_node(state: NegotiationState, *, draft_email=draft_stage_email) -> dict:
     is_reask = state.get("reask_count", 0) > 0
-    draft = await draft_stage_email(
+    draft = await draft_email(
         stage=state["current_stage"],
         dealership=state["dealership"],
         cars=state["dealership"]["cars"],
@@ -63,7 +63,7 @@ async def draft_stage_email_node(state: NegotiationState) -> dict:
 # ---------------------------------------------------------------------------
 
 
-async def queue_for_review_node(state: NegotiationState) -> dict:
+async def queue_for_review_node(state: NegotiationState, *, save_checkpoint=create_checkpoint) -> dict:
     neg_id = state["negotiation_id"]
     stage = state["current_stage"]
     dealer = state["dealership"]
@@ -80,7 +80,7 @@ async def queue_for_review_node(state: NegotiationState) -> dict:
         thread_subject = subject
 
     checkpoint_id = str(uuid4())
-    await create_checkpoint(
+    await save_checkpoint(
         id=checkpoint_id,
         kind="negotiation_stage_email",
         customer_id=state["customer"]["db_id"],
@@ -212,7 +212,9 @@ async def wait_for_dealer_reply_node(state: NegotiationState) -> dict:
 # ---------------------------------------------------------------------------
 
 
-async def _escalate_to_human(state: NegotiationState, stage: int, dealer_reply: str) -> None:
+async def _escalate_to_human(
+    state: NegotiationState, stage: int, dealer_reply: str, *, save_checkpoint,
+) -> None:
     """Flag a stuck negotiation for human review via a pending checkpoint.
 
     Surfaced in the existing /api/reviews list (pull-based; no push notification).
@@ -221,7 +223,7 @@ async def _escalate_to_human(state: NegotiationState, stage: int, dealer_reply: 
     """
     dealer = state["dealership"]
     checkpoint_id = str(uuid4())
-    await create_checkpoint(
+    await save_checkpoint(
         id=checkpoint_id,
         kind="human_review_needed",
         customer_id=state["customer"]["db_id"],
@@ -240,7 +242,9 @@ async def _escalate_to_human(state: NegotiationState, stage: int, dealer_reply: 
     )
 
 
-async def classify_reply_node(state: NegotiationState) -> dict:
+async def classify_reply_node(
+    state: NegotiationState, *, classify_reply=classify_stage_reply, save_checkpoint=create_checkpoint,
+) -> dict:
     thread = state["thread"]
     inbound_msgs = [m for m in thread if m["direction"] == "inbound"]
     if not inbound_msgs:
@@ -249,7 +253,7 @@ async def classify_reply_node(state: NegotiationState) -> dict:
     latest_body = inbound_msgs[-1]["body"]
     stage = state["current_stage"]
 
-    outcome = await classify_stage_reply(
+    outcome = await classify_reply(
         stage=stage,
         dealer_reply=latest_body,
         stage_data=state["stage_data"],
@@ -300,7 +304,7 @@ async def classify_reply_node(state: NegotiationState) -> dict:
             # routes back to draft_stage_email for the same stage (as a re-ask).
             return {"stage_data": new_stage_data, "reask_count": new_count}
 
-        await _escalate_to_human(state, stage, latest_body)
+        await _escalate_to_human(state, stage, latest_body, save_checkpoint=save_checkpoint)
         logger.warning(
             "Negotiation %s escalated to human review at stage %d after %d deflections",
             state["negotiation_id"], stage, reask_count,

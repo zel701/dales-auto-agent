@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+To run the portfolio demo with sample data and simulated email, see [Demo mode](../DEMO.md).
+
 First, run the development server:
 
 ```bash

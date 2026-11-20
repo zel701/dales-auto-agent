@@ -20,25 +20,32 @@ from car_agent.nodes.negotiation_v2 import (
 )
 from car_agent.state import NegotiationState
 
-builder = StateGraph(NegotiationState)
+def build_negotiation_graph(
+    *, draft_node=draft_stage_email_node, queue_node=queue_for_review_node,
+    classify_node=classify_reply_node,
+):
+    graph = StateGraph(NegotiationState)
+    graph.add_node("draft_stage_email", draft_node)
+    graph.add_node("queue_for_review", queue_node)
+    graph.add_node("wait_for_approval", wait_for_approval_node)
+    graph.add_node("wait_for_dealer_reply", wait_for_dealer_reply_node)
+    graph.add_node("classify_reply", classify_node)
 
-builder.add_node("draft_stage_email", draft_stage_email_node)
-builder.add_node("queue_for_review", queue_for_review_node)
-builder.add_node("wait_for_approval", wait_for_approval_node)
-builder.add_node("wait_for_dealer_reply", wait_for_dealer_reply_node)
-builder.add_node("classify_reply", classify_reply_node)
+    graph.set_entry_point("draft_stage_email")
+    graph.add_edge("draft_stage_email", "queue_for_review")
+    graph.add_edge("queue_for_review", "wait_for_approval")
+    graph.add_conditional_edges(
+        "wait_for_approval",
+        route_after_approval,
+        {"wait_for_dealer_reply": "wait_for_dealer_reply", END: END},
+    )
+    graph.add_edge("wait_for_dealer_reply", "classify_reply")
+    graph.add_conditional_edges(
+        "classify_reply",
+        advance_or_end,
+        {"draft_stage_email": "draft_stage_email", END: END},
+    )
+    return graph
 
-builder.set_entry_point("draft_stage_email")
-builder.add_edge("draft_stage_email", "queue_for_review")
-builder.add_edge("queue_for_review", "wait_for_approval")
-builder.add_conditional_edges(
-    "wait_for_approval",
-    route_after_approval,
-    {"wait_for_dealer_reply": "wait_for_dealer_reply", END: END},
-)
-builder.add_edge("wait_for_dealer_reply", "classify_reply")
-builder.add_conditional_edges(
-    "classify_reply",
-    advance_or_end,
-    {"draft_stage_email": "draft_stage_email", END: END},
-)
+
+builder = build_negotiation_graph()
